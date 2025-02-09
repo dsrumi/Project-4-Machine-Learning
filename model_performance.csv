@@ -1,0 +1,10 @@
+Model,Mean Accuracy,Training Accuracy,Test Accuracy
+Logistic Regression (Unscaled),0.8408,0.8403,0.8424
+Decision Tree (Unscaled),0.7762,1.0,0.7554
+Random Forest (Unscaled),0.8585,1.0,0.8478
+Logistic Regression (Scaled & Selected),0.8408,0.8838,0.3587
+Decision Tree (Scaled & Selected),0.7776,1.0,0.7609
+Random Forest (Scaled & Selected),0.8612,1.0,0.8397
+Logistic Regression (Grid Search),0.8739,0.8838,0.8668
+Decision Tree (Grid Search),0.8394,0.8884,0.8668
+Random Forest (Grid Search),0.8602,0.9501,0.8668
