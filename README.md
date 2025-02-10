@@ -76,6 +76,6 @@ The project follows a structured pipeline:
 This project demonstrates the importance of data preprocessing, feature engineering, and hyperparameter tuning in **building effective machine learning models for employee attrition prediction**. The **Random Forest and Logistic Regression models performed best** after tuning, offering a balance between accuracy and interpretability.  
 
 
-I
+
 
 
