@@ -73,7 +73,7 @@ The project follows a structured pipeline:
 - **Evaluation Metrics**: Accuracy Score, Confusion Matrix, Classification Report  
 
 ## **Conclusion**  
-This project demonstrates the importance of data preprocessing, feature engineering, and hyperparameter tuning in **building effective machine learning models for employee attrition prediction**. The **Random Forest and Logistic Regression models performed best** after tuning, offering a balance between accuracy and interpretability.  
+This project demonstrates the importance of data preprocessing, feature engineering, and hyperparameter tuning in **building effective machine learning models for employee attrition prediction**. The **Random Forest and Logistic Regression models performed best** after tuning, offering a balance between accuracy and interpretability.  This project offers quality insight on the analytics behind business culture and the major factors that drive employees to stay with or leave a company.  Employee attrition and retention will always play an important role in the success of businesses across the globe and being able to analyze and potentially predict its trends could help these businesses adapt and thrive.
 
 
 
